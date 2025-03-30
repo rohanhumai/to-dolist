@@ -9,7 +9,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #153677, #4e085f);
+    background: linear-gradient(135deg, #000000, #000000);
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -19,7 +19,7 @@
 .todo-app {
     width: 90%;
     max-width: 400px;
-    background: #fff;
+    background: #7b4bb7;
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -27,7 +27,7 @@
 }
 
 .todo-app h2 {
-    color: #002765;
+    color: #000000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -43,7 +43,8 @@
 .row {
     display: flex;
     align-items: center;
-    background: #edeef0;
+    background: #ffffff;
+    border-radius:rgb(255, 255, 255);
     border-radius: 10px;
     padding: 10px;
     margin-bottom: 20px;
