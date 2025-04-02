@@ -160,8 +160,8 @@ body {
     padding: 10px;
     margin-bottom: 15px;
     border-radius: 5px;
-    background: rgb(255, 255, 255);
-    color: #fff;
+    background: rgb(0, 0, 0);
+    color: #7b4bb7;
     text-align: center;
     transition: opacity 0.5s ease;
 }
